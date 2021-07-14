@@ -1,21 +1,9 @@
-# Template-ReSpec
+# MD-VDT - MetaData Van De Toekomst
 
-Dit is de ReSpec template voor Geonovum publicaties. 
-Deze template is in beheer bij d.hup@geonovum.nl.
+In deze repository staat de documentatie van het onderzoek dat Geonovum doet
+naar Metadata van de toekomst
 
-Het is een standaard template en kan worden aangepast aan verschillende Documenttypen. 
-Hiervoor moet de config.js worden aangepast. Hoe dat moet, lees je hieronder.
-
-Om gebruik te maken van de het specStatus en specType moeten in config.js de 
-schuine strepen voor het betreffende type worden weggehaald. 
-
-In het voorbeeld hieronder zijn 
-'specStatus: "GN-WV",                  // Werk Versie' geselecteerd en
-'specType: "BD",                       // Beheer Documentatie'geselecteerd.
-
-Het ReSpec document wordt nu dus als een werk versie van het type Beheer Documentatie vormgegeven.
-
-![image](https://user-images.githubusercontent.com/77289333/112480805-ab07bb00-8d76-11eb-8fc4-ffff9e4cff23.png)
-
-
+In het onderzoek wordt eerst "het net opgehaald". Hie vragen wij breed uit wat de toekomstige behoefte is aan Metadata.
+Vervolgens zoomen we in op het NGR (Nationaal Geo Register) om te onderzoeken in hoeverre het NGR in de behoefte voldoet.
+Tenslotte bepalen wij de handelingsperspectieven voor het NGR in relatie tot de toekomstige behoefte.
 
